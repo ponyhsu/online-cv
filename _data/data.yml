@@ -62,7 +62,7 @@ education:
 
 experiences:
     - role: Accounting Specialist
-      time: 2014 - 2019
+      time: 2014.07 - 2019.02
       company: AU Optronics Corp.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -79,7 +79,7 @@ experiences:
           - Bullet point
 
     - role: Accounting Specialist
-      time: 2012 - 2014
+      time: 2012.06 - 2014.07
       company: Cando Corp.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -92,7 +92,7 @@ experiences:
           - Bullet point
 
     - role: Accounting Specialist
-      time: 2010 - 2012
+      time: 2010.06 - 2012.06
       company: Jiatai Accounting Firm
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
